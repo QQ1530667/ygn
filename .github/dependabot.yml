@@ -5,15 +5,15 @@ updates:
     schedule:
       interval: "weekly"
     reviewers:
-      - "fguillot"
-    assignees:
-      - "fguillot"
+      - "xet7"
+    assignees
+      - "xet7"
 
   - package-ecosystem: "docker"
     directory: "/"
     schedule:
       interval: "weekly"
     reviewers:
-      - "fguillot"
+      - "xet7"
     assignees:
-      - "fguillot"
+      - "xet7"
